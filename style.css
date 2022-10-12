@@ -226,7 +226,6 @@ img{
         margin-right: 20px;
     }
 }
-
 @media screen and (max-width: 600px){
     .big-item-right{
         flex-direction: column;
